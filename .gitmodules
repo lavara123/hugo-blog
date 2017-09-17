@@ -1,0 +1,4 @@
+[submodule "lavara123.github.io"]
+	path = lavara123.github.io
+	url = git@github.com:lavara123/lavara123.github.io.git
+	branch = master
