@@ -2,7 +2,7 @@
 date = "2017-09-19 19:55:00"
 draft = false
 title = "C++ Pointers (Göstericiler)"
-tags = ["C++"]
+tags = ["C++", "Pointers"]
 categories = ["C++"]
 +++
 ## Pointer
